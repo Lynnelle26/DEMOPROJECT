@@ -1,0 +1,5 @@
+Github
+1. git init -->initialization of the git process
+2. Creaing a github repo
+3. git add .
+4.
